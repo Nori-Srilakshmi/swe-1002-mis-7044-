@@ -14,4 +14,4 @@ public class NS{
 		}
 		System.out.println(sum);
 	        }
-	        }/
+	        }
